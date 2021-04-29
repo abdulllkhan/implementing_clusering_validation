@@ -9,4 +9,5 @@ The input of each test case includes n lines. Each line i includes two numbers s
 <img src="images/input.png">
 
 ## Output
+The output contains the Normalized Mutual Information (NMI) score followed by Jaccard co-effiicient. Both the numbers are rounded to 3 decimal places.
 
